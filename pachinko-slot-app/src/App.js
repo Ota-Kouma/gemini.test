@@ -52,7 +52,7 @@ function App() {
       >
         <Tab eventKey="mie" title="三重県">
           {renderStoreList('mie')}
-        </TAb>
+        </Tab>
         <Tab eventKey="aichi" title="愛知県">
           {renderStoreList('aichi')}
         </Tab>
