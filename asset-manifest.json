@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gemini.test/static/css/main.1142e397.css",
+    "main.js": "/gemini.test/static/js/main.b1951774.js",
+    "index.html": "/gemini.test/index.html",
+    "main.1142e397.css.map": "/gemini.test/static/css/main.1142e397.css.map",
+    "main.b1951774.js.map": "/gemini.test/static/js/main.b1951774.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1142e397.css",
+    "static/js/main.b1951774.js"
+  ]
+}
